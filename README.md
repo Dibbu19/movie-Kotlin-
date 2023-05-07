@@ -21,8 +21,7 @@ The app uses clean architecture, MVVM, Kotlin coroutines, Flow and the latest Je
 ## Installing the App
 
 *   Clone this repository
-    ```
-    git https://github.com/angela-aciobanitei/kotlin-movie-night.git
+   
     ```
 *   Go to [The Movie Database](https://developers.themoviedb.org/3/getting-started/introduction) page and register for an API key.
 *   Import the project in Android Studio and add the TMDB API Key inside the `gradle.properties` file.
@@ -31,8 +30,3 @@ The app uses clean architecture, MVVM, Kotlin coroutines, Flow and the latest Je
     TMDB_API_KEY="Your API Key Here"
     ```
 
-## Demo
-
-https://user-images.githubusercontent.com/37955938/124139986-046f3c80-da80-11eb-8cb7-51fece9b9362.mp4
-
-https://user-images.githubusercontent.com/37955938/124140010-0a651d80-da80-11eb-979c-311fdb499fad.mp4
